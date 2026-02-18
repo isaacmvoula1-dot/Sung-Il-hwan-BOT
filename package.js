@@ -1,7 +1,7 @@
 {
   "name": "Sung-Il-hwan-BOT",
   "version": "1.0.0",
-  "description": "Sung Il-hwan WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
+  "description": "Sung Ilhwan WhatsApp Bot — a powerful, fun and intelligent bot packed with extra features, AI capabilities and a sleek futuristic design",
   "main": "index.js",
   "type": "module",
   "scripts": {
