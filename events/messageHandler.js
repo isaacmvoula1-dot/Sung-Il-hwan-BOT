@@ -332,4 +332,4 @@ async function handleIncomingMessage(client, event) {
     }
 }
 
-export default handleIncomingMessage 
+export default handleIncomingMessage
