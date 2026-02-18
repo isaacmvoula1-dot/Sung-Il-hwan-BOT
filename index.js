@@ -1,4 +1,4 @@
-import connectToWhatsapp from './Il-hwan/Sung Il-hwan.js'
+import connectToWhatsapp from './Il-hwan/SungIl-hwan.js'
 import handleIncomingMessage from './events/messageHandler.js'
 
 (async() => {
